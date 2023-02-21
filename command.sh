@@ -12,3 +12,5 @@
     git push origin update_logo
 
 5)  gh pr create
+
+6)  gh pr merge --auto
