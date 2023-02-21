@@ -6,3 +6,9 @@
 
 3)  git branch update_logo
     git checkout update_logo
+
+4)  git add.
+    git commit -m"log and link changed"
+    git push origin update_logo
+
+5)  gh pr create
